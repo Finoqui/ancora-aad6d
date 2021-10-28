@@ -31,11 +31,16 @@ seo:
       relativeUrl: true
 layout: page
 ---
+Me apasiona el análisis organizacional, la gestión, la comunicación, el trabajo en equipo, la creatividad y los cambios.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+Hace algunos años el análisis de las organizaciones me despertó fascinación. En la universidad me topé con la psicología en el trabajo y ver cómo pequeñas acciones sumadas pueden producir cambios innovadores, me pareció maravilloso.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+> The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+Estamos en una era de constantes cambios y el avance tecnológico nos brinda posibilidades infinitas, permitiéndonos estructuras colaborativas, gestión conjunta e innovación.
+Creo firmemente en que debemos construir y generar empresas cada vez más humanas, fomentando la empatía, la escucha, el liderazgo y el aprendizaje continuo para abrazar el cambio.
 
-*Thank You for reading!*
+Ancora nace como un proyecto vivo, en constante cambio y movimiento nucleando a diversos profesionales que aporten valor a múltiples organizaciones y con la visión de generar empresas más humanas.
+
+¿Cuál es el cambio que querés iniciar hoy?
+
