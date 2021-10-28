@@ -1,7 +1,7 @@
 ---
-title: About Us
+title: Sobre mí
 subtitle: This is a short page about us and our work.
-image: images/about.jpg
+image: /images/9EEF67E7-5B20-4E3C-B0FC-D658FE76F31A.jpg
 image_alt: A man taking a picture
 seo:
   title: About Us

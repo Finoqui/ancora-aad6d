@@ -13,7 +13,7 @@
                 "style": "link"
             },
             {
-                "label": "Portfolio",
+                "label": "Portafolio",
                 "url": "/portfolio/",
                 "style": "link"
             },
@@ -28,12 +28,12 @@
                 "style": "link"
             },
             {
-                "label": "About",
+                "label": "Nosotros",
                 "url": "/about/",
                 "style": "link"
             },
             {
-                "label": "Contact",
+                "label": "Contacto",
                 "url": "/contact/",
                 "style": "link"
             }
@@ -45,28 +45,21 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/ffinozzi",
                 "style": "icon",
                 "icon": "twitter",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/ffinozzi/",
                 "style": "icon",
                 "icon": "instagram",
                 "new_window": true
             },
             {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
-                "style": "icon",
-                "icon": "dribbble",
-                "new_window": true
-            },
-            {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/finozzi/",
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true

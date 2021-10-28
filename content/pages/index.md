@@ -11,14 +11,16 @@ sections:
       - label: Hablemos!
         url: /contact
         style: button
-  - section_id: latest-projects
-    type: section_portfolio
-    layout_style: mosaic
-    title: Recent Work
+  - section_id: latest-posts
+    type: section_posts
+    title: Latest from the Blog
     subtitle: An optional subtitle of the section
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
+    posts_number: 3
+    col_number: three
+    actions:
+      - label: Ver +
+        url: blog
+        style: button
   - section_id: services
     type: section_grid
     title: What We Do
@@ -45,6 +47,14 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+  - section_id: latest-projects
+    type: section_portfolio
+    layout_style: mosaic
+    title: Recent Work
+    subtitle: An optional subtitle of the section
+    projects_number: 6
+    view_all_label: View All
+    view_all_url: portfolio
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
@@ -70,16 +80,6 @@ sections:
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
-  - section_id: latest-posts
-    type: section_posts
-    title: Latest from the Blog
-    subtitle: An optional subtitle of the section
-    posts_number: 3
-    col_number: three
-    actions:
-      - label: View Blog
-        url: blog
-        style: button
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
