@@ -7,7 +7,7 @@ sections:
     content: >
       Hola! Será genial colaborar juntos para impactar y lograr los resultados
       que imaginas. Completá tus datos debajo y nos pondremos en contacto vía
-      mail [ejemplo@ejemplo.com](mailto:example@example.com)
+      mail
     form_id: contactForm
     form_action: /thank-you
     form_fields:
