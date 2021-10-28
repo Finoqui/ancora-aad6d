@@ -13,7 +13,7 @@ sections:
         style: button
   - section_id: latest-posts
     type: section_posts
-    title: Artículos del blog
+    title: Whats new?
     subtitle: An optional subtitle of the section
     posts_number: 3
     col_number: three
