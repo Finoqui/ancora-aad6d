@@ -1,5 +1,5 @@
 ---
-title: Green is my favorite color
+title: ¿Cómo impacta el juego en el negocio?
 subtitle: 'Apparently, green is my favorite color.'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
