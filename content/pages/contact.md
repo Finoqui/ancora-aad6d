@@ -5,7 +5,7 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >
-      Hola! Será genial colaborar juntos para impactar, lograr los resultados
+      Hola! Será genial colaborar juntos para impactar y lograr los resultados
       que imaginas. Completá tus datos debajo y nos pondremos en contacto vía
       mail [ejemplo@ejemplo.com](mailto:example@example.com)
     form_id: contactForm
