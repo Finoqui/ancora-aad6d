@@ -1,5 +1,5 @@
 ---
-title: Understanding Street Photography
+title: Cosas que no jamás hay que decir en una entrevista
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra.
