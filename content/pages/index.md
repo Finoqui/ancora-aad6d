@@ -13,8 +13,8 @@ sections:
         style: button
   - section_id: latest-posts
     type: section_posts
-    title: Latest from the Blog
-    subtitle: An optional subtitle of the section
+    title: Whats new?
+    subtitle: 'Artículos del blog, reflexiones y análisis del mundo del trabajo'
     posts_number: 3
     col_number: three
     actions:
