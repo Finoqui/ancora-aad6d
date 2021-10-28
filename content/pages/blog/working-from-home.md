@@ -1,5 +1,5 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
+title: Nuestro espacio de trabajo es clave para la productividad
 excerpt: >-
   Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
   commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
