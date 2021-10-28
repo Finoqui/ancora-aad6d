@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: Bienvenidos a Ancora team
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      ![](/images/9EEF67E7-5B20-4E3C-B0FC-D658FE76F31A.jpg)Soy Andrés Finozzi
+      analista organizacional y profesional de Gestión Humana
     actions:
       - label: Hablemos!
         url: /contact
