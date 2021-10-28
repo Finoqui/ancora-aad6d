@@ -6,7 +6,7 @@ excerpt: >-
 date: '2021-10-27'
 thumb_image: https://drive.google.com/drive/u/2/search?q=owner:me%20type:image
 thumb_image_alt: A handheld game console on a yellow background
-image: images/6.jpg
+image: https://drive.google.com/drive/u/2/search?q=owner:me%20type:image
 image_alt: A handheld game console on a yellow background
 seo:
   title: What are some of the best designed video games
