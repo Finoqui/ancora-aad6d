@@ -45,7 +45,6 @@ layout: post
 ---
 Tener conocimiento financiero es una materia que se “escapó” en la formación básica de nuestra enseñanza. Esto propicia que muchas veces cometamos errores involuntarios o tomemos malas decisiones.
 
-
 De qué manera administramos nuestra economía es esencial, más hoy donde atravesamos momentos de reflexión e incertidumbre.
 
 *¿Tengo un plan de gastos o un presupuesto?*
@@ -54,7 +53,7 @@ De qué manera administramos nuestra economía es esencial, más hoy donde atrav
 
 *¿Siento que gasto más de lo que gano? ¿Soy organizado al manejar mi dinero?*
 
-[Aquí](https://platzi.com/cursos/finanzas/) podrán acceder, de manera gratuita, a los primeros dos módulos del curso de Finanzas Personales de Platzi y aprender de forma clara, todo lo necesario.
+[Aquí ](https://platzi.com/cursos/finanzas/)podrán acceder, de manera gratuita, a los primeros dos módulos del curso de Finanzas Personales de Platzi y aprender de forma clara, todo lo necesario.
 
 ***¿Aprender por internet?***
 
