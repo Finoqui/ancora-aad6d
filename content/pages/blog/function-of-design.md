@@ -4,7 +4,7 @@ subtitle: El registro como forma de medir y mejorar
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
-date: '2020-04-15'
+date: '2020-04-14'
 thumb_image: images/13_thumb.jpg
 thumb_image_alt: Library shelves
 image: /images/1586722391475-b89bd396.jfif
