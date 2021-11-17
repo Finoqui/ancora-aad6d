@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Bienvenidos a Ancora team
+    title: Bienvenidos a Ancora
     content: |
       Soy Andrés Finozzi analista organizacional y profesional de Gestión Humana
     actions:
