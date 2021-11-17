@@ -11,7 +11,7 @@ sections:
       - label: Hablemos!
         url: /contact
         style: button
-        new_window: true
+        new_window: false
   - section_id: latest-posts
     type: section_posts
     title: ¿Qué hay de nuevo?
