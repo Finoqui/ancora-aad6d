@@ -1,5 +1,5 @@
 ---
-title: Cómo son mis estanterías
+title: ¿Llevo un registro consciente de mis finanzas?
 subtitle: 'A interesting tale about function of design '
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
