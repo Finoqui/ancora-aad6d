@@ -13,7 +13,7 @@ sections:
         style: button
   - section_id: latest-posts
     type: section_posts
-    title: Whats new?
+    title: ¿Qué hay de nuevo?
     subtitle: 'Artículos del blog, reflexiones y análisis del mundo del trabajo'
     posts_number: 3
     col_number: three
