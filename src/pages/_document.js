@@ -33,7 +33,6 @@ export default class MyDocument extends Document {
         return (
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>{this.helmetHeadComponents}</Head>
-
                 
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
