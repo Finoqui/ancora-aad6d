@@ -17,7 +17,7 @@ export default class Advanced extends React.Component {
         const pageUrl = getPageUrl(page);
 
         return (
-            <Layout page={page} config={config}>
+            <Layout page={page} config={config}>s
                 {!hideTitle && (
                     <header className="page-header inner-sm outer">
                         <h1 className="page-title line-top">{title}</h1>
