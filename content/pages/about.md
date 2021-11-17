@@ -31,7 +31,6 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Me apasiona el análisis organizacional, la gestión, la comunicación, el trabajo en equipo, la creatividad y los cambios.
 
 Hace algunos años el análisis de las organizaciones me despertó fascinación. En la universidad me topé con la psicología en el trabajo y ver cómo pequeñas acciones sumadas pueden producir cambios innovadores, me pareció maravilloso.
 
