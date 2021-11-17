@@ -34,7 +34,6 @@ export default class MyDocument extends Document {
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>{this.helmetHeadComponents}</Head>
 
-               
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XPVLC7VWPC"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
