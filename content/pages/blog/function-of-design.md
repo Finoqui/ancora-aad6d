@@ -1,6 +1,6 @@
 ---
 title: ¿Llevo un registro consciente de mis finanzas?
-subtitle: 'A interesting tale about function of design '
+subtitle: El registro como forma de medir y mejorar
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
