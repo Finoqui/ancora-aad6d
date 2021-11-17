@@ -20,7 +20,7 @@ sections:
     actions:
       - label: Ver +
         url: blog
-        style: button
+        style: icon
   - section_id: services
     type: section_grid
     title: What We Do
