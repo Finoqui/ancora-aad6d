@@ -64,7 +64,7 @@
                 "new_window": true
             }
         ],
-        "content": "Ancora git clone git@github.com:Finoqui/ancora-aad6d.git cd ancora-aad6d git checkout preview npm install npm run develop - Montevideo, Uruguay"
+        "content": "Ancora  - Montevideo, Uruguay"
     },
     "domain": "https://ancora-aad6d.netlify.app"
 }
