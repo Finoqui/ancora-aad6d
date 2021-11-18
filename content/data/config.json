@@ -2,7 +2,7 @@
     "title": "Ancora",
     "path_prefix": "/",
     "color_scheme": "dark",
-    "accent_color": "pink",
+    "accent_color": "green",
     "header": {
         "title": "ANCORA",
         "has_nav": true,
