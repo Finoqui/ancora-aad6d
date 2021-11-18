@@ -63,7 +63,8 @@
                 "icon": "linkedin",
                 "new_window": true
             }
-        ]
+        ],
+        "content": "Derechos reservados"
     },
     "domain": "https://ancora-aad6d.netlify.app"
 }
