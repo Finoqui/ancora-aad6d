@@ -1,7 +1,7 @@
 ---
 title: Sobre mí
 subtitle: "Soy analista organizacional y profesional de Gestión Humana. Me\_apasiona el análisis organizacional, la gestión, la comunicación, el trabajo en equipo, la creatividad y los cambios."
-image: /images/mifoto1.jpg
+image: /images/mifoto1 (1).jpg
 image_alt: A man taking a picture
 seo:
   title: About Us
