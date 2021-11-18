@@ -36,7 +36,9 @@ Hace algunos años el análisis de las organizaciones me despertó fascinación.
 Estamos en una era de constantes cambios y el avance tecnológico nos brinda posibilidades infinitas, permitiéndonos estructuras colaborativas, gestión conjunta e innovación.
 Creo firmemente en que debemos construir y generar empresas cada vez más humanas, fomentando la empatía, la escucha, el liderazgo y el aprendizaje continuo para abrazar el cambio.
 
-> Para tener buenas ideas 💡 no hay que buscar buenas ideas, hay que desarrollar una mentalidad que tenga buenas ideas." *Paul Graham*
+> Para tener buenas ideas 💡 no hay que buscar buenas ideas, hay que desarrollar una mentalidad que tenga buenas ideas." 
+>
+> *Paul Graham*
 
 Ancora nace como un proyecto vivo, en constante cambio y movimiento nucleando a diversos profesionales que aporten valor a múltiples organizaciones y con la visión de generar empresas más humanas.
 
